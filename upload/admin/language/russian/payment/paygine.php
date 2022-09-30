@@ -5,7 +5,7 @@ $_['heading_title']			= 'Paygine (Кредитная / Дебетовая Кар
 // Text 
 $_['text_payment']			= 'Оплата';
 $_['text_success']			= 'Настройки модуля обновлены!';
-$_['text_paygine']			= '<a onclick="window.open(\'http://www.paygine.net/\');"><img src="view/image/payment/paygine.png" alt="Paygine" title="Paygine" style="border: 1px solid #EEEEEE;" /><br /></a>';
+$_['text_paygine']			= '<a onclick="window.open(\'http://www.paygine.ru/\');"><img src="view/image/payment/paygine.png" alt="Paygine" title="Paygine" style="border: 1px solid #EEEEEE;" /><br /></a>';
 $_['text_all_zones']		= 'Все регионы';
 $_['text_on']				= 'Включено';
 $_['text_off']				= 'Отключено';
